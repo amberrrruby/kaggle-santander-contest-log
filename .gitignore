@@ -1,0 +1,10 @@
+*.md
+!README.md
+
+*.csv
+*.txt
+
+__pycache__/
+catboost_info/
+
+tut.ipynb
